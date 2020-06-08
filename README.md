@@ -6,4 +6,3 @@
 public Resources getResources() {
     return AutoSize.applyAdapt(super.getResources(), 375f, ScreenHelper.WIDTH_DP);
 }
-    ```
